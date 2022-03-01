@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proposal of Edw. Backwell, Esq; to his creditors</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01632</idno>
+            <idno type="STC">Wing B265A</idno>
+            <idno type="STC">ESTC R172558</idno>
+            <idno type="EEBO-CITATION">52614515</idno>
+            <idno type="OCLC">ocm 52614515</idno>
+            <idno type="VID">175756</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175756)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proposal of Edw. Backwell, Esq; to his creditors</title>
+                  <author>Backwell, Edward.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Backwell, Edward --  Finance, Personal --  Early works to 1800.</term>
+               <term>Debtor and creditor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175756:1" rendition="simple:additions"/>
+            <head>THE PROPOSAL OF Edw. Backwell, Eſq; TO HIS CREDITORS.</head>
+            <p>THE ſaid Mr. <hi>Backwell</hi> having through all the courſe of thoſe unhappy Calamities which fell upon the <hi>Bankers</hi> and their <hi>Creditors</hi> by the ſtop of Payments in the Ex<g ref="char:EOLhyphen"/>chequer, ſhewed a more than common zeal and care for his <hi>Creditors,</hi> by continuing the Payment of their In<g ref="char:EOLhyphen"/>tereſt when others ſtopt, and when he could receive none for that vaſt Debt due unto him from his Majeſty; Has reaped none other benefit from this his care, than an unfortunate Opinion in his <hi>Creditors,</hi> That his Eſtate (which hath been indeed for the moſt part morgaged or ſold to enable him to pay ſuch Intereſt,) is ſufficient to pay his Debts, without any part of the ſumme granted to him by his Majeſty's Patent payable out of the Exciſe; By means whereof very few of his <hi>Creditors</hi> have taken Aſſignments from him for their Debts, and even ſome who have taken ſuch Aſſignments from other <hi>Goldſmiths,</hi> have refuſed to accept them from him; So that there is no one of the <hi>Bankers</hi> hath ſo great a Debt due to him from his Majeſty as the ſaid Mr. <hi>Backwell,</hi> or doth owe ſo much to his <hi>Creditors.</hi>
+            </p>
+            <p>
+               <hi>But</hi> now being no longer able to continue the conſtant payment of his Intereſt, but exceedingly deſirous to manifeſt the continuance of his care for their ſatisfaction to the utmoſt of his power, <hi>Doth</hi> hereby <hi>Propoſe,</hi> To pay unto his <hi>Creditors,</hi> one fifth part of the Principal (due to them) in Money, and the other four fifth parts of their ſaid Principal with all Intereſt due for their whole Debt by Aſſignments of
+<pb n="2" facs="tcp:175756:2"/>proportionable parts of the yearly Summe granted unto him by his Majeſty out of the Hereditary-exciſe.</p>
+            <p>The ſaid Aſſignments to be made, and the one Moyety of the ſaid fifth part to be paid in Money (by the ſale of ſuch part of the Eſtate as will be ſooneſt ſold) within three months after all his ſaid <hi>Credi<g ref="char:EOLhyphen"/>tors</hi> Subſcriptions to accept this Propoſal, and upon their diſcharging ſuch Securities as they have for their reſpective Debts: And the other Moyety with Intereſt for the ſame within ſix months then next fol<g ref="char:EOLhyphen"/>lowing, by the ſale of the Reſidue of the ſaid Eſtate (which is con<g ref="char:EOLhyphen"/>veyed to Truſtees who are to raiſe the ſaid fifth part by ſuch ſale, to<g ref="char:EOLhyphen"/>gether with ſuch Money as they are to receive from his Majeſty and the Friends of the ſaid Mr. <hi>Backwell</hi> for that purpoſe,) and in the mean time to be ſecured by Bond from the ſaid <hi>Edward Backwell</hi> and by the ſaid Eſtate, in the hands of the Truſtees, (if they may ſafely pro<g ref="char:EOLhyphen"/>ceed in raiſing the ſaid fifth part in manner aforeſaid by the general conſent of the <hi>Creditors.</hi>)</p>
+            <p>Wherefore this Propoſal is upon condition that all his <hi>Creditors</hi> ſhall to the ſatisfaction of his Truſtees agree to accept and ſubſcribe the ſame before <hi>Chriſtmas</hi> next, by ſuch Writing as is left with Mr. <hi>Richard Snagg</hi> at Mr. <hi>Valentine Duncomb</hi>'s Shop in <hi>Lumbard-ſtreet, London,</hi> and to be there ſubſcribed, and in caſe of ſuch as are abſent, by ſome other Writing of the ſame tenure, to be delivered herewith.</p>
+            <p>And the ſaid <hi>Edward Backwell</hi> doth with all imaginable Integrity aſſure his <hi>Creditors,</hi> that he hath no reſerve, and that his whole Eſtate (the Patent for perpetual Intereſt on the Exciſe excepted) will not be ſufficient (when the Ingagements thereon which were made to enable him to pay their Intereſt are diſcharged) to raiſe the ſaid fifth part, if what is due from his Majeſty be not paid; but he relies on ſome of his Friends who have promiſed to aſſiſt him in it, if it ſo fall ſhort. And to the end his <hi>Creditors</hi> may not altogether take his Word, he deſires them to receive ſatisfaction herein from Sir <hi>William Pritchard,</hi> Sir <hi>Benjamin Newland,</hi> Sir <hi>John Buckworth, John Bathurſt</hi> and <hi>Chriſtopher Boone,</hi> Eſquires; Perſons of known Worth and Inte<g ref="char:EOLhyphen"/>grity, in <hi>London;</hi> who have inſpected and know the poſture and truth of his Eſtate.</p>
+            <p>And in this aſſurance he hopes his <hi>Creditors</hi> will reſt ſatisfyed, and that none of them through any vain hopes of making their Condi<g ref="char:EOLhyphen"/>tion better than the Reſt, will proceed to any violent courſe, eſpecially when they ſhall conſider that this is the utmoſt ſatisfaction they can ever receive from him or his Eſtate; and that he hath dealt with them in all candor and integrity, and that the Intereſt which he hath paid them in Money ſince the ſtop has amounted to above 50 <hi>l. per cent.</hi> of their Principal Money, and is more by 50000 <hi>l.</hi> than he ever re<g ref="char:EOLhyphen"/>ceived in Money from his Majeſty. Which is the reaſon his Eſtate will extend no further now than to one fifth part of the Principal in Money.</p>
+            <p>And he deſires his <hi>Creditors</hi> will pleaſe to haſten their Subſcriptions and to take notice that the Payments of their fifth parts in Money ſhall be made in courſe according to the Dates of their reſpective Subſcrip<g ref="char:EOLhyphen"/>tions, which ſhall be duely numbred, and the numbers of Payments
+<pb n="3" facs="tcp:175756:2"/>ſhall be continually publiſhed in the <hi>Gazette</hi> or otherwiſe as is uſual; But the Subſcriptions of ſuch as are abſent above 20 Miles from <hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſhall have the ſame preferrence as if they had ſubſcribed in <hi>London</hi> fourteen days ſooner.</p>
+            <p>And the ſaid <hi>Edward Backwell</hi> is the more inſtant and preſſing with his <hi>Creditors,</hi> to accept of this his utmoſt endeavour for their ſatisfaction, and to be ſpeedy in it, becauſe finding his Eſtate grow<g ref="char:EOLhyphen"/>ing daily leſs, he cannot be without fear of having the ſame Fate at<g ref="char:EOLhyphen"/>tend his, as has done his Neighbour's, to wit, That what would have paid five <hi>per Cent.</hi> by perpetual Intereſt, and was ſo offered; by be<g ref="char:EOLhyphen"/>ing refuſed, became not able to pay three, after almoſt that value was ſpent to get a better ſatisfaction: And this he inſtances merely out of the true deſire he hath (whilſt he is living) to give his <hi>Creditors</hi> the beſt Payment he is able.</p>
+            <p>And he humbly deſires his <hi>Creditors</hi> to take notice that he pays by this Propoſal one fifth part of his whole Debt in Money, whereas others have paid the greateſt part of their's by Aſſignments onely.</p>
+            <p>And as the great Loſſes and Damages he has ſuſtained, and the Diſcouragements he hath lain under by and ſince the ſtop of Payments in the Exchequer (which has reduced him to this Propoſal) have never leſſen'd his Care and Induſtry for obtaining the Payment of the Perpetual Intereſt for the benefit of his <hi>Creditors,</hi> ſo he aſſures them that their ready acceptance of this Propoſal, will be of great uſe to them not onely by adding the intereſt of ſo many Friends for the better obtaining the continuance of that Payment, but by obliging the ſaid Mr. <hi>Backwell</hi> to the continuance of his Care for that purpoſe; which he hopes they will believe, ſince whatever will remain unto him for his ſubſiſtence, will be part of that Fund.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
